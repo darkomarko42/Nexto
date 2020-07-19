@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Nexto
+Comment=GTK Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Nexto
+MetacityTheme=Nexto
+IconTheme=Marwaita-Light
+CursorTheme=Marwaita-Light
+CursorSize=24
