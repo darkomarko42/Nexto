@@ -12,7 +12,7 @@
    viewBox="0 0 14 14"
    version="1.1"
    id="svg4"
-   sodipodi:docname="radio-symbolic.svg"
+   sodipodi:docname="radio-mixed-symbolic.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata10">
@@ -38,21 +38,21 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:window-height="1001"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="0.77966095"
-     inkscape:cy="8"
+     inkscape:zoom="29.5"
+     inkscape:cx="1.8727888"
+     inkscape:cy="7.6900591"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
      inkscape:document-rotation="0" />
   <path
-     d="M 7,4 C 5.3431457,4 4,5.3431457 4,7 4,8.6568543 5.3431457,10 7,10 8.6568543,10 10,8.6568543 10,7 10,5.3431457 8.6568543,4 7,4 Z"
+     d="m 3,6 v 2 h 8 V 6 Z"
      id="path2"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="sssss"
-     style="stroke-width:0.75" />
+     sodipodi:nodetypes="ccccc"
+     style="stroke-width:1" />
 </svg>

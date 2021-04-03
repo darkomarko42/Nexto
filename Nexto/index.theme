@@ -7,6 +7,6 @@ Encoding=UTF-8
 [X-GNOME-Metatheme]
 GtkTheme=Nexto
 MetacityTheme=Nexto
-IconTheme=Marwaita-Light
-CursorTheme=Marwaita-Light
+IconTheme=Luna-Light
+CursorTheme=Luna
 CursorSize=24
