@@ -2073,6 +2073,8 @@ spinner:checked:disabled { opacity: 0.5; }
 
 .nautilus-window .sidebar .frame list{  margin: -2px 0;}
 
+.nautilus-path-bar .path-buttons-box button { border: none; box-shadow: none; }
+
 /************
  * Pantheon *
  ************/
